@@ -2,7 +2,6 @@ venv
 .idea
 data/activities
 data/coordinates.csv
-img
 00.py
 heatmap.py
 
